@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1226342634/Quiz_-_Online.iml" filepath="$PROJECT_DIR$/.idea/modules/1226342634/Quiz_-_Online.iml" group="Quiz_-_Online" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Quiz - Online/app" />
+    </modules>
+  </component>
+</project>

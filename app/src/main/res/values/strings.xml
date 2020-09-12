@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سوالینو</string>
+    <string name="welcome_message">به سوالینو خوش آمدید</string>
+    <string name="completed">تبریک ! \n شما مرحله را رد کردید.</string>
+    <string name="not_completed">اوپس! \n مرحله کامل نشد. دوباره بازی کنید!</string>
+    <string name="select_level">انتخاب مرحله</string>
+    <string name="select_category">انتخاب دسته بندی</string>
+    <string name="select_subcategory">انتخاب زیر شاخه</string>
+    <string name="more_app">دیگر برنامه ها</string>
+    <string name="about_us">درباره ما</string>
+    <string name="sound">صدا</string>
+    <string name="share_app">اشتراک گذاری برنامه</string>
+    <string name="vibration">ویبره</string>
+    <string name="rateapp">امتیاز دادن</string>
+    <string name="bg_music">موزیک پس زمینه</string>
+    <string name="share_via">اشتراک گذاری با</string>
+    <string name="share_subject">بازی مسابقه سوالینو را از لینک درج شده دانلود کن: </string>
+    <string name="market_url">http://play.google.com/store/apps/details?id=</string>
+    <string name="more_apps_bazzar">https://cafebazaar.ir/app/</string>
+    <string name="achievement">دستاورد</string>
+    <string name="next_play">مرحله ی بعد</string>
+    <string name="play_again">بازی مجدد</string>
+    <string name="quite">صفحه اصلی</string>
+    <string name="review_answer">بررسی پاسخ ها</string>
+    <string name="share_score">به اشتراک گذاری امتیاز</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="play_next">بازی مجدد</string>
+    <string name="lets_play">فهمیدم!</string>
+    <string name="instruction">راهنمای بازی</string>
+    <string name="start">شروع</string>
+
+    <string name="msg_no_internet">دسترسی به اینترنت مقدور نیست!</string>
+    <string name="no_category">دسته بندی ای در دسترس نیست!</string>
+    <string name="no_sub_category">زیر شاخه ای در دسترس نیست!</string>
+    <string name="no_enough_question">سوالات این مرحله کافی نیست!</string>
+    <string name="retry">دوباره</string>
+    <string name="title">عنوان</string>
+    <string name="bm_empty_msg">نشان شده ای در دسترس نیست!</string>
+    <string name="a">1</string>
+    <string name="b">2</string>
+    <string name="c">3</string>
+    <string name="d">4</string>
+    <string name="answer">جواب</string>
+    <string name="extra_note">یادداشت اضافی</string>
+    <string name="note">یادداشت</string>
+    <string name="ok">باشه</string>
+    <string name="report">گزارش سوال</string>
+    <string name="cancel">لغو</string>
+    <string name="submit">ارسال</string>
+    <string name="generate_pdf">ایجاد پی دی اف</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="view">مشاهده</string>
+    <string name="level">مرحله</string>
+    <string name="title_already_used">شما یکبار از این کمک استفاده کردید!</string>
+    <string name="msg_lifeline_used">در هر مرحله فقط یکبار میتوانید از این کمک استفاده کنید.</string>
+    <string name="try_again">امتحان مجدد</string>
+    <string name="zero">00</string>
+
+
+    <string name="note_info">یادداشت قابل توجه</string>
+    <string name="question">سوال</string>
+    <string name="msg_enough_question">سوالات کافی نیست!</string>
+    <string name="msg_logout_success">با موفقیت خارج شدید</string>
+    <string name="msg_login_success">با موفقیت وارد شدید</string>
+    <string name="level_not_available">مرحله در دسترس نیست</string>
+    <string name="msg_fill_data">لطفا تمام اطلاعات را پر کنید و ارسال کنید!</string>
+
+    <string name="msg_enough_coin">سکه کافی نیست!</string>
+    <string name="coin_message"> باید حداقل 4 سکه برای استفاده از این کمک داشته باشید.</string>
+    <string name="coin_message_sub">با مشاهده یک ویدئو کوتاه سکه رایگان بگیرید!</string>
+    <string name="skip_btn_message">نیازی نیست!</string>
+    <string name="msg_watch_video">مشاهده</string>.
+    <string name="total_score">جمع امتیاز</string>
+    <string name="total_coins">جمع سکه ها</string>
+    <string name="right">درست</string>
+    <string name="wrong">غلط</string>
+    <string name="report_hint">یک پیام بنویسید</string>
+    <string name="pg_dialog_title">\u25CF لطفا منتظر بمانید&#8230;گزارش پی دی اف شما در حال ایجاد کردن است&#8230;</string>
+    <string name="achievements_exception">یک مورد ارتباط با دستاوردها وجود داشت.</string>
+    <string name="players_exception">یک مورد ارتباط با بازیکنان وجود داشت.</string>
+    <string name="status_exception_error">%1$s (وضعیت %2$d). %3$s.</string>
+    <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="level_pre_text">مرحله :</string>
+    <string name="msg_level_lock">مرحله قفل است</string>
+    <string name="exit_msg">آیا می خواهید از مرحله خارج شوید؟</string>
+    <string name="bookmark_play">شروع بازی با این سوالات</string>
+    <string name="all_complete_msg">شما به تمام سوالات جواب دادید!</string>
+    <!--instruction  messages-->
+    <string name="how_to_play">چگونه بازی کنم</string>ّ
+    <string name="has_option">بازی 4 گزینه دارد</string>
+    <string name="msg_right">برای هر جواب درست 5 امتیاز داده می شود.</string>
+    <string name="msg_wrong">هر جواب غلط 2 امتیاز منفی دارد.</string>
+    <string name="msg_lifeline">استفاده از کمک ها: شما می توانید در هر مرحله از هر کمک فقط یکبار استفاده کنید.</string>
+    <string name="msg_fifty_fifty">50 – 50: این گزینه از 4 گزینه موجود 2 گزینه را به تصادف حذف میکند. (کسر 4 سکه)</string>
+    <string name="msg_skip">رد کردن سوال: در صورتی که جواب صحیح را نمیدانید سوال را رد کنید و به سوال بعد بروید. (کسر 4 سکه)</string>
+    <string name="msg_opinion">جواب دیگر کاربران: میتوانید درصد جواب دیگر کاربران برای این سوال را ببینید. (کسر 4 سکه)</string>
+    <string name="msg_reset">تنظیم مجدد زمان سنج: اگر به زمان بیشتری برای فکر کردن احتیاج دارید میتوانید زمان سنج را مجددا تنظیم کنید. (کسر 4 سکه)</string>
+    <string name="msg_leaderboard">شما می توانید امتیاز خود را با سایر کاربران برنامه مقایسه کنید.</string>
+    <string name="msg_achievement">شما میتوانید دستاورد و سطح بدست آوردید.</string>
+    <string name="leaderboard">جدول امتیازات</string>
+    <string name="textsize_dialog_lbl_fontsize">اندازه قلم</string>
+    <string name="font_size">اندازه قلم</string>
+
+    <!--Ad Mob Id-->
+    <string name="adAppId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_Rewarded_Video_Ads">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
